@@ -1,6 +1,6 @@
 # CS50 AI Solutions
 
-Solutions to exercises from the Harvard CS50 Introduction to Artificial Intelligence course.
+Solutions to exercises from the Harvard [CS50 Introduction to Artificial Intelligence](https://cs50.harvard.edu/ai/) course.
 
 ## Useful commands
 
